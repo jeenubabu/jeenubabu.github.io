@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jeenu Babu, P.E.</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      color: #243247;
+      background: #fafbfc;
+    }
+    nav {
+      background: white;
+      padding: 24px;
+      border-bottom: 1px solid #ddd;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 28px;
+    }
+    a { color: #2456a6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    main { max-width: 900px; margin: 60px auto; padding: 24px; }
+    h1 { font-family: Georgia, serif; }
+    p { line-height: 1.7; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="electrical.html">Electrical Engineering CV</a>
+    <a href="telecommunications.html">Telecommunications Engineering CV</a>
+  </nav>
